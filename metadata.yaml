@@ -1,0 +1,40 @@
+_repo: Histoire-du-Bas-Empire-Tome-04_74290
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Beau, Charles
+    aliases:
+    - Beau, Charles le
+    - Lebeau, Charles
+    - Lebeau, Carolus
+    - LeBeau, Charles
+    birthdate: 1701
+    deathdate: 1778
+    gutenberg_agent_id: '56676'
+    url: http://www.gutenberg.org/2009/agents/56676
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_le_Beau
+    - https://fr.wikipedia.org/wiki/Charles_Le_Beau
+description: ''
+gutenberg_issued: '2024-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74290'
+language: fr
+pgterms:marc904: https://catalog.hathitrust.org/Record/009724933
+pgterms:marc905: 20210208112137lebeau
+pgterms:marc906: 1824-1836
+pgterms:marc907: FR
+production_note: Brian Wilson, MFR, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bF. Didot., $c1824-1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Byzantine Empire -- History'
+- !lcc 'DF'
+- GITenberg
+title: Histoire du Bas-Empire. Tome 04
+url: http://www.gutenberg.org/ebooks/74290
